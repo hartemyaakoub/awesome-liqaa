@@ -10,7 +10,7 @@ A curated list of LIQAA SDKs, integrations, examples, and community resources.
 
 </div>
 
-> Built in 🇩🇿 Algeria, for the world. PRs welcome.
+> Built in Algeria, for the world. PRs welcome.
 
 ---
 
@@ -69,10 +69,10 @@ A curated list of LIQAA SDKs, integrations, examples, and community resources.
 
 ## Community
 
-- 💬 [GitHub Discussions](https://github.com/hartemyaakoub/liqaa-js/discussions) — Q&A, ideas
-- 🐛 [Issues](https://github.com/hartemyaakoub/liqaa-js/issues) — bugs, feature requests
-- 📧 [partners@tkawen.com](mailto:partners@tkawen.com) — sales, partnerships
-- 🔒 [security@liqaa.io](mailto:security@liqaa.io) — vulnerability disclosure
+- [GitHub Discussions](https://github.com/hartemyaakoub/liqaa-js/discussions) — Q&A, ideas
+- [Issues](https://github.com/hartemyaakoub/liqaa-js/issues) — bugs, feature requests
+- [partners@tkawen.com](mailto:partners@tkawen.com) — sales, partnerships
+- [security@liqaa.io](mailto:security@liqaa.io) — vulnerability disclosure
 
 ---
 
