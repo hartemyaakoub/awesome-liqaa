@@ -1,37 +1,27 @@
-# Contributing to Awesome LIQAA
+# Contributing to LIQAA
 
-Thanks for adding to this list. To keep it useful:
+Thanks for your interest. This repo is part of the [LIQAA platform](https://github.com/hartemyaakoub) — a 22-repo open-source ecosystem for real-time video.
 
-## Format
+## Quick links
 
-```markdown
-- **[Name](link)** — One-line description ending with a period.
-```
+- **Bug reports and feature requests:** open an issue here
+- **Security issues:** [security@liqaa.io](mailto:security@liqaa.io) (do **not** open public issues)
+- **Substantial changes:** propose an [RFC](https://github.com/hartemyaakoub/liqaa-rfcs)
+- **Questions and discussion:** [GitHub Discussions](https://github.com/hartemyaakoub/liqaa-meet/discussions)
 
-## Rules
+## Pull requests
 
-1. **Alphabetize** within each section.
-2. **One link per line** — pick the canonical one (GitHub repo, npm package, official docs).
-3. **English** descriptions, neutral tone.
-4. **Real, working** content only — no link-rot, no abandoned half-projects.
-5. **Open source preferred** — proprietary content lives elsewhere.
+1. Fork the repo and create a feature branch from `main`
+2. Make your changes — follow the existing code style
+3. Add tests if applicable
+4. Open a PR with a clear description of the why
 
-## What to add
+We use **Conventional Commits** (`feat:`, `fix:`, `docs:`, `chore:`).
 
-- SDKs in any language for LIQAA (`pip install`, `composer require`, etc.)
-- Framework adapters (Vue, Svelte, Solid, Astro, etc.)
-- Drop-in plugins for CMS / e-commerce platforms
-- Tutorials, blog posts, conference talks
-- Tools that consume the LIQAA OpenAPI spec
-- Boilerplate / starter templates
-- Recipes for specific use cases (telehealth, support widget, etc.)
+## Code of Conduct
 
-## What NOT to add
-
-- Anything unrelated to real-time video / messaging
-- Spam, affiliate links, or self-promotion without value
-- Duplicates of existing entries
+This project follows the [Contributor Covenant 2.1](./CODE_OF_CONDUCT.md). By participating, you agree to uphold its terms.
 
 ## License
 
-By contributing you agree your contribution is dedicated to the public domain (CC0 1.0).
+By contributing, you agree your contributions are licensed under the same license as this repo.
